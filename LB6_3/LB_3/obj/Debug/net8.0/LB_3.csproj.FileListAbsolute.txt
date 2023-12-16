@@ -1,0 +1,14 @@
+E:\Something(uni)\LB_3\LB_3\bin\Debug\net8.0\LB_3.exe
+E:\Something(uni)\LB_3\LB_3\bin\Debug\net8.0\LB_3.deps.json
+E:\Something(uni)\LB_3\LB_3\bin\Debug\net8.0\LB_3.runtimeconfig.json
+E:\Something(uni)\LB_3\LB_3\bin\Debug\net8.0\LB_3.dll
+E:\Something(uni)\LB_3\LB_3\bin\Debug\net8.0\LB_3.pdb
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.AssemblyInfoInputs.cache
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.AssemblyInfo.cs
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.csproj.CoreCompileInputs.cache
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.dll
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\refint\LB_3.dll
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.pdb
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\LB_3.genruntimeconfig.cache
+E:\Something(uni)\LB_3\LB_3\obj\Debug\net8.0\ref\LB_3.dll
